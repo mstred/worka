@@ -1,0 +1,14 @@
+body {
+  background: ghostwhite;
+  color: navy; }
+  body p {
+    font-weight: bold; }
+
+section {
+  padding: 1.6em;
+  margin: 1.6em auto 0;
+  width: 960px;
+  background: white !important;
+  border: 1px solid lightgrey; }
+
+/*# sourceMappingURL=basic.css.map */
